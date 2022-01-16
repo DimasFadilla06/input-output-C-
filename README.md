@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
     //input output
+    
+    
     int x;
     float z;
     int hasil,output1,output2;
